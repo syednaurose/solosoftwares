@@ -29,7 +29,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-slate-400 font-bold uppercase tracking-widest text-xs mb-2">Email Us</h4>
-                    <p className="text-2xl font-bold text-slate-900">hello@solosoftwares.com</p>
+                    <p className="text-2xl font-bold text-slate-900">syednaurose@gmail.com</p>
                   </div>
                 </div>
 
@@ -39,7 +39,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-slate-400 font-bold uppercase tracking-widest text-xs mb-2">Call Us</h4>
-                    <p className="text-2xl font-bold text-slate-900">+1 (555) 123-4567</p>
+                    <p className="text-2xl font-bold text-slate-900">+919994120250 (Whatsapp Only)</p>
                   </div>
                 </div>
 
@@ -49,7 +49,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-slate-400 font-bold uppercase tracking-widest text-xs mb-2">Our Office</h4>
-                    <p className="text-2xl font-bold text-slate-900">123 Innovation Way, SV 94043</p>
+                    <p className="text-2xl font-bold text-slate-900">Kadayanallur - 627751</p>
                   </div>
                 </div>
               </div>
@@ -66,7 +66,7 @@ export default function Contact() {
                         <input 
                           required
                           type="text" 
-                          placeholder="John Doe" 
+                          placeholder="Your name" 
                           className="w-full px-8 py-5 bg-white rounded-3xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-[#00C4B4] transition-all shadow-sm"
                         />
                       </div>
@@ -75,7 +75,7 @@ export default function Contact() {
                         <input 
                           required
                           type="email" 
-                          placeholder="john@company.com" 
+                          placeholder="test@company.com" 
                           className="w-full px-8 py-5 bg-white rounded-3xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-[#00C4B4] transition-all shadow-sm"
                         />
                       </div>
@@ -85,7 +85,7 @@ export default function Contact() {
                       <label className="text-xs font-bold uppercase tracking-widest text-slate-400 ml-4">Company Name</label>
                       <input 
                         type="text" 
-                        placeholder="Solo Enterprises" 
+                        placeholder="SoloSoftwares" 
                         className="w-full px-8 py-5 bg-white rounded-3xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-[#00C4B4] transition-all shadow-sm"
                       />
                     </div>
